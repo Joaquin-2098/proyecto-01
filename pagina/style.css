@@ -20,7 +20,25 @@ img.Chaja {
     display: block;
   margin: 0 auto;
 }
+img.box {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+    display: block;
+  margin: 0 auto;
+}
 
+img.box-4 {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+    display: block;
+  margin: 0 auto;
+}
+div.imagenes-del-titulo {
+    text-align: center;
+    margin-bottom: 20px;
+}
 h1 {
     font-family: 'Caacupe One', sans-serif;
     color: #216e5e;
