@@ -1,0 +1,45 @@
+
+img.logo {
+    width: 450px;
+    height: auto;
+    margin-bottom: 10px;
+    display: block;
+  margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Caacupe One', sans-serif;
+    color: #216e5e;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+div.postres {
+    h3 {
+        font-family: 'Caacupe One', sans-serif;
+        color: #32574f;
+    }
+    font-family: 'Caacupe One', sans-serif;
+    background-color: #f8e1e7;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+div.cookies {
+    h3 {
+        font-family: 'Caacupe One', sans-serif;
+        color: #dfaa5c;
+    }
+    font-family: 'Caacupe One', sans-serif;
+    background-color: #c6fd6c;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+
+}
