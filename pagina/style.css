@@ -6,6 +6,20 @@ img.logo {
     display: block;
   margin: 0 auto;
 }
+img.Tarta {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+    display: block;
+  margin: 0 auto;
+}
+img.Chaja {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+    display: block;
+  margin: 0 auto;
+}
 
 h1 {
     font-family: 'Caacupe One', sans-serif;
