@@ -14,7 +14,12 @@ h1 {
     margin-top: 20px;
 }
 
-
+h2  {
+    font-family: 'Caacupe One', sans-serif;
+    color: #947445;
+    text-align: center;
+    margin-top: 10px;
+}
 
 div.postres {
     h3 {
